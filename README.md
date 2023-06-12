@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me
 - email: rcgr.13@gmail.com
-- discord: 13Rob#0374
+- discord: 13rob
