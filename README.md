@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>@13-Rob</b>.
 - 👀 I’m interested in <b>AI, Data Science and Game Development</b>.
-- 🌱 I’m currently learning how to make games using Unity.
+- 🌱 I’m currently learning how to make Discord bots.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me
 - email: rcgr.13@gmail.com
