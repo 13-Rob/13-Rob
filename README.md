@@ -10,7 +10,7 @@ Artificial Intelligence, Data Science, Game and Web Development.<br>
 
 ---
 
-- I’m currently learning how to make Discord bots.
+- I’m currently learning how to make web apps using Django.
 - I’m looking to collaborate on any project.
 - How to reach me
 - email: rcgr.13@gmail.com
