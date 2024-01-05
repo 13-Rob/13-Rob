@@ -1,11 +1,32 @@
+/* Tags */
+a {
+    color: #fff;
+}
+
+/* Classes */
+.container {
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
 .main-display {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 70vh;
     font-size: 3rem;
     text-align: center;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 20vh;
 }
 
 .TEST {
