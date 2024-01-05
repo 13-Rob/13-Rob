@@ -1,0 +1,14 @@
+.main-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.TEST {
+    border-style: solid;
+    border-color: magenta;
+}
