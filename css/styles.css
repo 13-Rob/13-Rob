@@ -3,8 +3,9 @@ a {
     color: #fff;
 }
 
-body {
+html, body {
     background-size: cover;
+    /* background-color: black; */
 }
 
 /* Classes */
@@ -27,9 +28,10 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
     height: 70vh;
-    font-size: 3rem;
-    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 500;
 }
 
 .row {
