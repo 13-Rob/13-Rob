@@ -1,17 +1,17 @@
 ### Roberto (@13-Rob)
-Medium human, neutral good
-
-**Skills**<br>
-Python, Java, SQL, Git, C#.<br>
-**Languages**<br>
-Common, Spanish, English.<br>
-**Interests**<br>
-Artificial Intelligence, Data Science, Game and Web Development.<br>
+Computer Science - CETYS Universidad (2019-2023)
 
 ---
 
-- I’m currently learning how to make web apps using Django.
-- I’m looking to collaborate on any project.
-- How to reach me
-- email: rcgr.13@gmail.com
-- discord: 13rob
+**Skills**<br>
+Python, Java, SQL, Git, C#.<br>
+
+**Languages**<br>
+Common, Spanish, English.<br>
+
+**Interests**<br>
+Artificial Intelligence, Data Science, Game and Web Development.<br>
+
+**Contact**<br>
+email: rcgr.13@gmail.com<br>
+discord: 13rob<br>
