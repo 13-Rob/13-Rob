@@ -1,17 +1,23 @@
-### Roberto (@13-Rob)
+# Roberto (@13-Rob)
+
 Computer Science - CETYS Universidad (2019-2023)
 
 ---
 
-**Skills**<br>
-Python, Java, SQL, Git, C#.<br>
+**Skills**
 
-**Languages**<br>
-Common, Spanish, English.<br>
+Python, Java, SQL, Git, C#.
 
-**Interests**<br>
-Artificial Intelligence, Data Science, Game and Web Development.<br>
+**Languages**
 
-**Contact**<br>
-email: rcgr.13@gmail.com<br>
-discord: 13rob<br>
+Spanish, English.
+
+**Interests**
+
+Artificial Intelligence, Data Science, Game and Web Development.
+
+**Contact**
+
+- email: rcgr.13@gmail.com
+
+- discord: 13rob
