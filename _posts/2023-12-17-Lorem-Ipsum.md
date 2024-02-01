@@ -1,5 +1,6 @@
 ---
 title: Fusce convallis tempor pellentesque
+layout: post
 ---
 
 Fusce convallis tempor pellentesque. Donec mattis, mi quis feugiat pellentesque, erat sapien iaculis odio, in rhoncus elit nunc id orci. Nunc pretium tempus enim. Duis euismod sapien in sagittis iaculis. Integer sed nunc vel enim accumsan laoreet. Vivamus bibendum enim auctor erat maximus varius. In rhoncus non nisl eget eleifend. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla sit amet sollicitudin tortor.
