@@ -1,5 +1,6 @@
 ---
 title: Duis iaculis erat eu ex pulvinar
+layout: post
 ---
 
 Duis iaculis erat eu ex pulvinar, feugiat elementum nulla elementum. Aliquam in bibendum dui, eget imperdiet est. Nullam blandit diam sed ex congue, at vulputate mauris tempor. Nullam diam felis, semper vel metus non, venenatis varius lectus. Praesent gravida ut mauris vitae imperdiet. Ut placerat aliquam odio nec elementum. Maecenas dictum finibus purus, quis hendrerit erat vestibulum eget. Donec posuere tortor et augue suscipit, pretium mattis turpis lacinia. In tortor lectus, volutpat ut tellus nec, pharetra fringilla augue. Cras sagittis elementum felis at accumsan. Ut pharetra orci efficitur pretium consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean id suscipit diam. Morbi dignissim odio in dignissim ultricies. Etiam nunc enim, rutrum vitae euismod et, dignissim eu lectus. In pretium sem a neque pulvinar rutrum.

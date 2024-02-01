@@ -1,5 +1,6 @@
 ---
 title: Fusce pretium neque nunc
+layout: post
 ---
 
 Fusce pretium neque nunc, porttitor fringilla sem viverra a. Curabitur ut tempus tortor. Vivamus scelerisque leo at sem hendrerit, ut tristique massa vestibulum. Aenean at metus non turpis feugiat eleifend ac nec sapien. Donec et ultrices odio. Nulla maximus ante id magna volutpat tempus. Vestibulum venenatis, turpis id cursus gravida, elit velit tincidunt leo, mattis blandit felis mauris nec orci. Nunc luctus dapibus lorem a efficitur. Curabitur consectetur turpis in nunc dapibus, sed varius velit iaculis. Etiam a lacus eget enim tincidunt dictum. Aenean eget vulputate tortor. Suspendisse nec nunc sem. Nullam bibendum rutrum iaculis. Integer bibendum lacus ligula, eget pulvinar tortor faucibus ut.
