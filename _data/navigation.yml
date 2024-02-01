@@ -1,4 +1,8 @@
 - title: Blog
-  url: /13-Rob/blog/
+  url: /blog/
+# - title: Projects
+#   url: /projects/
+- title: Resume
+  url: /resume/
 - title: About
-  url: /13-Rob/about/
+  url: /about/
