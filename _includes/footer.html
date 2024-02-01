@@ -1,3 +1,16 @@
 <footer class="site-footer">
-    <p class="TEST">Footer</p>
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+                <ul class="social-list">
+                    {% for item in site.socials %}
+                        <li class="social-item">{{ item.platform }}: {{ item.username }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="footer-col">
+                <p>{{ site.description }}</p>
+            </div>
+        </div>
+    </div>
 </footer>

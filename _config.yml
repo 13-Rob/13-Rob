@@ -12,10 +12,20 @@ description: >
   Discord, Github and LinkedIn.
 
 # Social media links
-discord_username: 13Rob
-github_username: 13-Rob
-linkedin_username: glz-rob
-twitter_username: kermithefragger
+socials:
+- platform: Discord
+  username: 13Rob
+- platform: GitHub
+  username: 13-Rob
+- platform: LinkedIn
+  username: glz-rob
+- platform: Twitter
+  username: kermithefragger
+
+  # discord_username: 13Rob
+  # github_username: 13-Rob
+  # linkedin_username: glz-rob
+  # twitter_username: kermithefragger
 
 # Include folders to be processed.
 include: ["_pages"]
