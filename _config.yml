@@ -1,8 +1,7 @@
 # This file is used to configure your Jekyll site.
 
-# Build settings
-url: "https://13-rob.github.io/"
-baseurl: /13-Rob
+# url: https://13-rob.github.io
+# baseurl: "/13-Rob"
 
 # Site settings
 title: Rob
