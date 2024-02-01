@@ -1,5 +1,10 @@
 // Common classes
 
+.align-center {
+    text-align: center;
+
+}
+
 .wrapper {
     max-width: calc(800px - (30px));
     margin-right: auto;
@@ -28,4 +33,10 @@
 .social-list {
     list-style: none;
     padding: 0;
+}
+
+// Resume classes
+
+.aa {
+    border: 1px solid magenta;
 }
