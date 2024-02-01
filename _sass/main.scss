@@ -1,8 +1,12 @@
+footer {
+    display: block;
+}
+
+.site-footer {
+    border-top: 1px solid #2f3438;
+    padding: 30px, 30px;
+}
+
 .TEST {
-    border-color: magenta;
-    border-width: 1px;
-    border-style: solid;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    border: 1px solid magenta;
 }
