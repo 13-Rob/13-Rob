@@ -1,0 +1,36 @@
+# This file is used to configure your Jekyll site.
+
+# Site settings
+title: Rob
+author:
+  name: Roberto C. Gonzalez
+  email: rcgr.13@gmail.com
+
+description: >
+  A site about me, my projects and everything I like.
+  If you want to know more about me, I'm very active on
+  Discord, Github and LinkedIn.
+
+# Social media links
+socials:
+- platform: Discord
+  username: 13Rob
+- platform: GitHub
+  username: 13-Rob
+- platform: LinkedIn
+  username: glz-rob
+- platform: Twitter
+  username: kermithefragger
+
+  # discord_username: 13Rob
+  # github_username: 13-Rob
+  # linkedin_username: glz-rob
+  # twitter_username: kermithefragger
+
+# Include folders to be processed.
+include: ["_pages"]
+
+# Exclude from processing.
+exclude:
+  - .gitignore
+  - README.md
