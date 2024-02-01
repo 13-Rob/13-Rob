@@ -1,12 +1,17 @@
 <footer class="site-footer">
-    <div class="footer-col-wrapper">
-        <div class="footer-col">
-            <p>{{ site.author.name }}</p>
-            <p>{{ site.author.email }}</p>
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+                <p>{{ site.author.name }}</p>
+                <p>{{ site.author.email }}</p>
+            </div>
+            <div class="footer-col">
+            <p>{{ site.description | escape }}</p>
+            </div>
         </div>
-    </div>
 
-    <div class="footer-col">
-        {% include socials.html %}
+        <div class="footer-col">
+            {% include socials.html %}
+        </div>
     </div>
 </footer>
