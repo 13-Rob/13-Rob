@@ -11855,6 +11855,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.align-center {
+  text-align: center;
+}
+
 .wrapper {
   max-width: 770px;
   margin-right: auto;
@@ -11881,13 +11885,8 @@ textarea.form-control-lg {
   padding: 0;
 }
 
-footer {
-  display: block;
-}
-
-.site-footer {
-  border-top: 1px solid #2f3438;
-  padding: 30px, 30px;
+.aa {
+  border: 1px solid magenta;
 }
 
 .TEST {
