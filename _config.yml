@@ -1,5 +1,8 @@
 # This file is used to configure your Jekyll site.
 
+url: https://13-rob.github.io
+baseurl: /13-Rob
+
 # Site settings
 title: Rob
 author:
@@ -21,11 +24,6 @@ socials:
   username: glz-rob
 - platform: Twitter
   username: kermithefragger
-
-  # discord_username: 13Rob
-  # github_username: 13-Rob
-  # linkedin_username: glz-rob
-  # twitter_username: kermithefragger
 
 # Include folders to be processed.
 include: ["_pages"]
