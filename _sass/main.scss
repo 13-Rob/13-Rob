@@ -2,42 +2,7 @@
     border-color: magenta;
     border-width: 1px;
     border-style: solid;
-}
-
-$spacing-unit: 5em;
-$on-medium: 40em;
-$on-large: 64em;
-
-.site-footer {
-    border-top: 1px solid #d1d0d0;
-}
-
-.footer-col {
-    margin-bottom: $spacing-unit * .5;
-}
-
-@media screen and (min-width: $on-medium) {
-    .footer-col-wrapper {
-        display: flex
-    }
-
-    .footer-col {
-        width: calc(100% - (#{$spacing-unit} / 2));
-        padding: 0 ($spacing-unit * .5);
-
-        &:first-child {
-            padding-right: $spacing-unit * .5;
-            padding-left: 0;
-        }
-
-        &:last-child {
-            padding-right: 0;
-            padding-left: $spacing-unit * .5;
-        }
-    }
-}
-
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
