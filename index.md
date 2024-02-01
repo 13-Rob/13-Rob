@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Home
+## Home
 
 This is the home page.
