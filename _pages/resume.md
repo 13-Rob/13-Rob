@@ -31,7 +31,23 @@ IT Summer Intern at Imperial Irrigation District, Imperial, California.
 
 **August 2019 - June 2023**
 
-Computer Science (Cum Laude) at CETYS Universidad, Mexicali, Baja California.
+Bachelor of Science, Computer Science (Cum Laude) at CETYS Universidad, Mexicali, Baja California.
+
+---
+
+### Leadership & Activities
+
+**June 2021 - June 2023**
+
+Software Engineer for LightCube Mission at CETYS Universidad, Mexicali, Baja California.
+
+**January 2020 - March 2020**
+
+Sprite Artist for FoxDev at CETYS Universidad, Mexicali, Baja California.
+
+**September 2016 - March 2020**
+
+Mathlete and Mathletics Teacher for Olimpiada Mexicana de Matematicas, Mexicali, Baja California.
 
 ---
 
@@ -57,7 +73,7 @@ Team Work, Communication, Problem Solving, Analytical Thinking.
 
 English: Fluent
 
-Spanish: Fluent
+Spanish: Native
 
 ---
 
