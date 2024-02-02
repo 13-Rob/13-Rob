@@ -6,4 +6,5 @@ permalink: /about/
 
 # About me
 
-About me page.
+I'm Roberto, I graduated from Computer Science in 2023, and I'm currently working as a
+Software Developer, and IT Support for PROMED Grupo Medico.
