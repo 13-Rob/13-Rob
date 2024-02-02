@@ -1,5 +1,13 @@
 // Common classes
 
+header {
+  background-color: rgba(10, 10, 10, 0.5);
+}
+
+body {
+  background-color: transparent;
+}
+
 .align-center {
     text-align: center;
 
@@ -37,6 +45,11 @@
 
 // Star background
 
+html {
+  height: 100%;
+  background: radial-gradient(ellipse at 50% 100%, #263546, #1B2735 20%, #090A0F 80%);
+}
+
 @function multiple-box-shadow ($n) {
   $value: '#{random(2000)}px #{random(2000)}px #FFF';
   @for $i from 2 through $n {
@@ -50,7 +63,6 @@ $shadows-small:  multiple-box-shadow(700);
 $shadows-medium: multiple-box-shadow(200);
 $shadows-big:    multiple-box-shadow(100);
 $screen-size: 200px;
-
 
 #stars {
     width: 1px;
@@ -111,6 +123,6 @@ $screen-size: 200px;
         transform: translateY(0px);
     }
     to {
-        transform: translateY(-2000px);
+        transform: translateY(-1000px);
     }
 }
