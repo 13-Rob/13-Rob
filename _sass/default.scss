@@ -53,7 +53,7 @@ html {
 @function multiple-box-shadow ($n) {
   $value: '#{random(2000)}px #{random(2000)}px #FFF';
   @for $i from 2 through $n {
-    $value: '#{$value} , #{random(2000)}px #{random(2000)}px #FFF';
+    $value: '#{$value} , #{random(2000)}px #{random(2000)}px rgb(#{random(128)+128}, #{random(192)+64}, #{random(256)})';
   }
 
   @return unquote($value)
