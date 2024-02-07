@@ -1,6 +1,7 @@
-- title: Project 1
+- title: Event KeyCodes
   description: This is a description of project 1.
   img_path: https://placehold.co/360x200
+  url: keycodes/
 - title: Project 2
   description: This is a description of project 2.
   img_path: https://placehold.co/360x200
@@ -12,4 +13,7 @@
   img_path: https://placehold.co/360x200
 - title: Project 5
   description: This is a description of project 5.
+  img_path: https://placehold.co/360x200
+- title: Project 6
+  description: This is a description of project 6.
   img_path: https://placehold.co/360x200

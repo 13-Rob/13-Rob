@@ -26,7 +26,7 @@ socials:
   username: kermithefragger
 
 # Include folders to be processed.
-include: ["_pages"]
+include: ["_pages", "_projects"]
 
 # Exclude from processing.
 exclude:
