@@ -6,7 +6,7 @@ permalink: /resume/
 
 <div class="wrapper align-center">
     <h1>Roberto Carlos Gonzalez Retamoza</h1>
-    <small> +1 (###) ### #### | rcgr.13@gmail.com | linkedin: glz-rob | github: 13-Rob </small>
+    <small> rcgr.13@gmail.com | linkedin: glz-rob | github: 13-Rob </small>
 </div>
 
 ---
