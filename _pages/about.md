@@ -6,5 +6,5 @@ permalink: /about/
 
 # About me
 
-I'm Roberto, I graduated from Computer Science in 2023, and I'm currently working as a
-Software Developer, and IT Support for PROMED Grupo Medico.
+I graduated from the Computer Science program at CETYS Universidad in 2023. I'm currently
+working as a Software Developer, and IT Support for PROMED Grupo Medico.

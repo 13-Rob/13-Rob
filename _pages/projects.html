@@ -1,0 +1,23 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+<h2>Projects</h2>
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+{% for project in site.data.projects %}
+    <div class="col">
+        <div class="card">
+            {% if project.img_path %}
+                <img src="{{ project.img_path }}" class="card-img-top" alt="placeholder">
+            {% endif %}
+            <div class="card-body">
+                <h5 class="card-title">{{ project.title }}</h5>
+                <p class="card-text">{{ project.description }}</p>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
