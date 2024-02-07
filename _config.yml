@@ -2,6 +2,8 @@
 
 url: "https://13-rob.github.io"
 baseurl: "/13-Rob"
+style: "/13-Rob/assets/css"
+scripts: "/13-Rob/assets/js"
 
 # Site settings
 title: Rob

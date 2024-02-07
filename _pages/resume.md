@@ -4,7 +4,7 @@ layout: default
 permalink: /resume/
 ---
 
-<div class="wrapper align-center">
+<div class="wrapper" style="text-align: center;">
     <h1>Roberto Carlos Gonzalez Retamoza</h1>
     <small> rcgr.13@gmail.com | linkedin: glz-rob | github: 13-Rob </small>
 </div>
