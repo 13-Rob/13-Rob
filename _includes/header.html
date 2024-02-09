@@ -1,5 +1,5 @@
 <header>
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid col-md-10">
             <a class="navbar-brand" href="{{ site.baseurl }}/">Rob</a>
 
@@ -11,9 +11,7 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     {% for item in site.data.navigation %}
                         <li class="nav-item">
-
                             <a class="nav-link {% if @page.url == @item.url %}active{% endif %}" aria-current="page" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-
                         </li>
                     {% endfor %}
                 </ul>

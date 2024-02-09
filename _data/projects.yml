@@ -3,9 +3,11 @@
     Catch the key pressing event and display the code for that key.
   img_path: /13-Rob/assets/img/keycodes.png
   url: keycodes/
-- title: Project 2
-  description: This is a description of project 2.
-  img_path: https://placehold.co/360x200
+- title: Animated Stars Background
+  description: >
+    Starry background using only SASS and HTML.
+  img_path: /13-Rob/assets/img/animated-stars.png
+  url: animated-stars/
 - title: Project 3
   description: This is a description of project 3.
   img_path: https://placehold.co/360x200
