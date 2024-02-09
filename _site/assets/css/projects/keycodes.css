@@ -1,29 +1,31 @@
 #insert {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    height: 60vh;
-    overflow: hidden;
-    margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 60vh;
+  overflow: hidden;
+  margin: 0;
 }
 
 .key {
-    background-color: rgba(20, 41, 82, 0.281);
-    display: inline-flex;
-    align-items: center;
-    font-weight: bold;
-    font-size: 24px;
-    padding: 20px;
-    margin: 10px;
-    min-width: 150px;
-    align-items: center;
-    flex-direction: column;
+  background-color: rgba(20, 41, 82, 0.281);
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 20px;
+  margin: 10px;
+  min-width: 150px;
+  align-items: center;
+  flex-direction: column;
 }
 
 .key small {
-    position: relative;
-    text-align: center;
-    color: #fce891;
-    font-size: 14px;
+  position: relative;
+  text-align: center;
+  color: #fce891;
+  font-size: 14px;
 }
+
+/*# sourceMappingURL=keycodes.css.map */
